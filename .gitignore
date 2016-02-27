@@ -1,0 +1,5 @@
+bin
+obj
+Matches
+*.suo
+*.user
